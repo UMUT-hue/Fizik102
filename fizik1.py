@@ -7,6 +7,8 @@ import sys
 from threading import Thread
 import QT_designer.icons_rc                                         #Fotoğrafların içinde bulunduğu dosya
 import math
+
+
 class window(QtWidgets.QMainWindow):
     def __init__(self):
         super(window, self).__init__()
