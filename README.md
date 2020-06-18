@@ -1,7 +1,7 @@
 # Fizik102
 (Kodlar main.py içerisindedir)
 
-![alt text] (https://github.com/UMUT-hue/Fizik102/blob/master/images/Screenshot%20(64).png)
+https://github.com/UMUT-hue/Fizik102/blob/master/images/Screenshot%20(64).png
 
 Eğer bilgisayarınızda python yoksa main.py'i çalıştıramazsınız ancak bu linkten:
 
